@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Cool Weather</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="text1">-</string>
     <string name="action_settings">Settings</string>
 
 </resources>
